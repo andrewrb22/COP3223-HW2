@@ -7,6 +7,12 @@
 
 int main(){
 
+float F = 71.5;
+float C;
+
+C = (F - 32) / 1.8; 
+
+printf(" %.2f degrees F is equal to %.2f degree C", F,C  );
 
 
 
