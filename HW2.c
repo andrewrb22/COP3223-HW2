@@ -7,7 +7,7 @@
 
 int main(){
 
-float F = 71.5;
+float F = 27;
 float C;
 
 C = (F - 32) / 1.8; 
